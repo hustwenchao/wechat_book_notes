@@ -1,0 +1,231 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "0ec1d94f89d21881",
+        "type": "split",
+        "children": [
+          {
+            "id": "47b4edf28276685f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c32b2137ea07c4a3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0_工作日志/0_Important.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "20fa024284ca6d19",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0_工作日志/0_Important.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ec91ec1635232d05",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Projects/G93/Project - Review.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "10d831eb422261d5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Projects/MA77/TODO.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "08739a0da203f5cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Messiah/Messiah引擎入门/01 基础.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b6ba4d03fbb20715",
+        "type": "split",
+        "children": [
+          {
+            "id": "ceb0a2a4e64f691d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "636494b01030877e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f7245065353385fa",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "Messiah",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d683a0d5be078473",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d702a88c9e461d03",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "4169cfe97a97fc45",
+        "type": "split",
+        "children": [
+          {
+            "id": "9755060c20b09ceb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e78684fd5cff5d5d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0_工作日志/0_Important.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "30d2b3b5ead32e2d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0_工作日志/0_Important.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a212780b745281ec",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "62579440edb53113",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0_工作日志/0_Important.md"
+                  }
+                }
+              },
+              {
+                "id": "4bc900c59ce9f6b3",
+                "type": "leaf",
+                "state": {
+                  "type": "mermaid-toolbar-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "99b9482cdf398670",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "636494b01030877e"
+    }
+  },
+  "active": "Default"
+}
