@@ -3,5 +3,7 @@
   "mermaid-tools",
   "table-editor-obsidian",
   "obsidian-style-settings",
-  "obsidian-weread-plugin"
+  "obsidian-weread-plugin",
+  "obsidian-excalidraw-plugin",
+  "dataview"
 ]

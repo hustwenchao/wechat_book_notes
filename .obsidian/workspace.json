@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9abd7d0677f7caf4",
+        "id": "df27b45cac2ed234",
         "type": "tabs",
         "children": [
           {
-            "id": "eab30ca5e3de36b5",
+            "id": "03bdf8959d17f59c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "心理/蛤蟆先生去看心理医生.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "蛤蟆先生去看心理医生"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -44,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "蛤蟆",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -66,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -96,7 +110,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -107,7 +123,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -118,7 +136,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -126,7 +146,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "心理/蛤蟆先生去看心理医生.md"
+              },
+              "icon": "lucide-list",
+              "title": "蛤蟆先生去看心理医生 的大纲"
             }
           },
           {
@@ -134,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
-              "state": {}
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           },
           {
@@ -142,11 +168,27 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "1db4e75bd38bcea4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,37 +206,40 @@
       "workspaces:管理工作区布局": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-weread-plugin:Weread": false
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "636494b01030877e",
   "lastOpenFiles": [
-    "经济理财/富爸爸穷爸爸.md",
-    "经济理财/黑天鹅：如何应对不可预知的未来.md",
-    "精品小说/阴阳师 第1卷.md",
-    "文学/孩子你慢慢来：龙应台“人生三书”之一.md",
-    "文学/当我们谈论爱情时我们在谈论什么.md",
-    "人物传记/基辛格越战回忆录.md",
-    "经济理财/分享经济的爆发.md",
-    "文学/人间词话.md",
-    "心理/乌合之众.md",
-    "历史/鱼羊野史（全集）.md",
-    "精品小说/我们.md",
-    "科学技术/必然（KK三部曲·展望）.md",
-    "经济理财/认识商业.md",
-    "经济理财/斯坦福极简经济学.md",
-    "经济理财/读懂金融的第一本书.md",
-    "计算机/图解HTTP.md",
-    "生活百科/游戏改变世界.md",
-    "政治军事/林则徐家书.md",
-    "计算机/人工智能.md",
-    "文学/一九八四.md",
-    "科学技术/时间的形状：相对论史话（彩图升级版）.md",
-    "科学技术/星空的琴弦：天文学史话.md",
-    "精品小说/最璀璨的银河：刘慈欣经典作品集（《流浪地球》等11篇精选作品集）.md",
-    "经济理财/金融的本质：伯南克四讲美联储（中英双语版）.md",
-    "经济理财/经济学原理彩图馆.md",
-    "历史/脂砚斋评石头记（全集）.md",
+    "个人成长/当下的力量（白金版）.md",
+    "心理/烧掉你的船：将焦虑转化为积极行动的9个策略.md",
+    "经济理财/金钱永不眠：资本世界的暗流涌动和金融逻辑.md",
+    "人物传记/哥德尔传.md",
+    "未分类/什么是金融 -- 米希尔德赛 -- 2024 -- CITIC Publishing House -- 9787521716320 -- 401144462fb91a79957c58934da4d8df -- Anna’s Archive.md",
+    "童书/柳林风声（英文原版）The Wind in the Willows.md",
+    "未分类/The Wind in the Willows.md",
+    "经济理财/小而美：持续盈利的经营法则.md",
+    "未分类/回荡的钟摆（知名经济学家许小年重磅新作！深度解析“中国模式”,中国经济改革步入深水区，探索市场化回归可能）.md",
+    "社会文化/智人之上 ——从石器时代到 AI 时代的信息网络简史.md",
+    "文学/东坡集（果麦经典）.md",
+    "未分类/从来就没有救世主.md",
+    "历史/苏东坡新传.md",
+    "心理/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
+    "个人成长/批判性思维与说服性写作：独立思考者的精进技巧.md",
+    "个人成长/大厂人才：互联网巨头人才管理像素级还原.md",
+    "个人成长/非暴力沟通.md",
+    "科学技术/第一推动·读懂宇宙的七大经典著作（新版套装共7册）（探索宇宙最前沿、最权威的理论。读懂时间、空间和宇宙一套就够）.md",
+    "心理/人性中的善良天使：暴力为什么会减少.md",
+    "经济理财/一如既往： 不变的人性与致富心态.md",
+    "科学技术/物理定律的本性.md",
+    "经济理财/乐高传.md",
+    "文学/卡片笔记写作法：如何实现从阅读到写作.md",
+    "科学技术/看不见的光.md",
+    "精品小说/仙症.md",
+    "经济理财/光刻巨人：ASML崛起之路.md",
+    "字语青梅硬笔.ttf",
+    "Excalidraw",
     "教育学习",
     "童书",
     "医学健康",
@@ -203,8 +248,6 @@
     "政治军事",
     "社会文化",
     "未分类",
-    "生活百科",
-    "经济理财",
     "Pasted image 20230814171443.png",
     "未命名.canvas",
     "Pasted image 20230301142322.png",

@@ -4,7 +4,7 @@
   "textFontFamily": "Roboto Slab,汉仪空山楷,汉仪风骨楷体,楷体,Georgia",
   "monospaceFontFamily": "Go Mono,Fira Code,Courier New,汉仪正圆",
   "baseFontSize": 17,
-  "interfaceFontFamily": "汉仪空山楷",
+  "interfaceFontFamily": "Microsoft Sans Serif,Source Han Sans HW HC VF,汉仪空山楷",
   "translucency": false,
   "nativeMenus": false,
   "theme": "moonstone",

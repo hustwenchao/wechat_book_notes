@@ -2,27 +2,11 @@
   "cookies": [
     {
       "name": "wr_fp",
-      "value": "793937435"
-    },
-    {
-      "name": "wr_gid",
-      "value": "225928939"
-    },
-    {
-      "name": "wr_vid",
-      "value": "2009032"
-    },
-    {
-      "name": "wr_skey",
-      "value": "J8i038Um"
+      "value": "2314574311"
     },
     {
       "name": "wr_pf",
       "value": "0"
-    },
-    {
-      "name": "wr_rt",
-      "value": "web@q2PYtBMJKzXh_f2YpP4_AL"
     },
     {
       "name": "wr_localvid",
@@ -34,11 +18,27 @@
     },
     {
       "name": "wr_avatar",
-      "value": "https://thirdwx.qlogo.cn/mmopen/vi_32/s9eZBTOaoYW9HZd2O3V5p4uZfj9ICqzlKqS02zES5iaXC5b9qv6P5okRMBt5L0MHSNotQaZq0w8WBiaxl2YOlQfg/132"
+      "value": "https://thirdwx.qlogo.cn/mmopen/vi_32/C604fYOBiaGEE5EcX692BByUGZyn1dqOR36ib0wZItGweIiatfbsAAHlfUgvZjvYBKFNhexszJ8daQuGwcuBc0v1Q/132"
     },
     {
       "name": "wr_gender",
       "value": "1"
+    },
+    {
+      "name": "wr_skey",
+      "value": "m1nG3QF1"
+    },
+    {
+      "name": "wr_vid",
+      "value": "2009032"
+    },
+    {
+      "name": "wr_rt",
+      "value": "web@2BCIErVeb3F82tqyhEK_AL"
+    },
+    {
+      "name": "wr_gid",
+      "value": "205665517"
     }
   ],
   "noteLocation": "/",
@@ -46,7 +46,7 @@
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",
   "dailyNotesFormat": "YYYY-MM-DD",
-  "lastCookieTime": 1693984323633,
+  "lastCookieTime": 1732534288665,
   "isCookieValid": true,
   "user": "文超",
   "userVid": "2009032",
